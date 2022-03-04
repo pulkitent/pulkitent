@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I am Pulkit Gupta</h1>
 <h2 align="center">A technology agnostic & polyglot Senior Software Development Engineer (SDE-2)</h3>
 
-## Checkout my craft on low level or object oriented design using domain modellling & object oriented principles: 
+## Checkout my craft on low level or object oriented design using domain modelling & object oriented principles: 
   - [Parking Lot](https://github.com/pulkitent/parking-lot-lld-oop-ood)
   - [Game Of Life](https://github.com/pulkitent/thoughtworks-game-of-life-assignment)
   - [Super Market Billing](https://github.com/pulkitent/thoughtworks-super-market-billing-assignment)
