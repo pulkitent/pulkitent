@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I am Pulkit Gupta</h1>
-<h3 align="center">A technology agnostic & polyglot Senior Software Engineer/Developer</h3>
+<h2 align="center">A technology agnostic & polyglot Senior Software Engineer/Developer</h3>
 
 - Checkout my craft on low level design (OOPs) using domain modelling: [Parking_Lot](https://github.com/pulkitent/parking-lot-lld-oop-ood)
 
@@ -9,9 +9,9 @@
 
 - I like to read/learn about: High Level Design (Distributed systems & Microservices)
 
-- 📫 How to reach me [pulkitent@gmail.com](pulkitent@gmail.com)
+- 📫 How to reach me out at: [pulkitent@gmail.com](pulkitent@gmail.com)
 
-- 📝 I sometimes write articles on **http://medium.com/@pulkitent**
+- 📝 I sometimes write articles on distributed system: **http://medium.com/@pulkitent**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
