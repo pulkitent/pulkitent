@@ -17,11 +17,11 @@
 ## Wanna reach out to me?
 - Email: [pulkitent@gmail.com](pulkitent@gmail.com)
 
-- On Linkedin here <a href="https://linkedin.com/in/pulkit-gupta-44188525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pulkit-gupta-44188525" height="30" width="40" /></a>
+- Linkedin: <a href="https://linkedin.com/in/pulkit-gupta-44188525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pulkit-gupta-44188525" height="30" width="40" /></a>
 
-- On Twitter here <a href="https://twitter.com/pulkitent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pulkitent" height="30" width="40" /></a>
+- Twitter: <a href="https://twitter.com/pulkitent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pulkitent" height="30" width="40" /></a>
 
-- On Medium here <a href="https://medium.com/@pulkitent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pulkitent" height="30" width="40" /></a>
+- Medium <a href="https://medium.com/@pulkitent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pulkitent" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages, Frameworks & Libraries</h3>
@@ -66,7 +66,7 @@
   <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> 
 </p>
  
-<h3 align="left">Devops</h3>
+<h3 align="left">DevOps</h3>
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
