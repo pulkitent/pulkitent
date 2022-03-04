@@ -1,24 +1,27 @@
 <h1 align="center">Hello, I am Pulkit Gupta</h1>
-<h2 align="center">A technology agnostic & polyglot Senior Software Engineer/Developer</h3>
+<h2 align="center">A technology agnostic & polyglot Senior Software Development Engineer (SDE-2)</h3>
 
-## Checkout my craft on low level design or object oriented design using domain modellling concepts & object oritedn principles: 
-  - [Parking_Lot](https://github.com/pulkitent/parking-lot-lld-oop-ood)
-  - [Game_Of_Life](https://github.com/pulkitent/thoughtworks-game-of-life-assignment)
-  - [Super_Market_Billing](https://github.com/pulkitent/thoughtworks-super-market-billing-assignment)
+## Checkout my craft on low level or object oriented design using domain modellling & object oriented principles: 
+  - [Parking Lot](https://github.com/pulkitent/parking-lot-lld-oop-ood)
+  - [Game Of Life](https://github.com/pulkitent/thoughtworks-game-of-life-assignment)
+  - [Super Market Billing](https://github.com/pulkitent/thoughtworks-super-market-billing-assignment)
+  - [Shopping Cart](https://github.com/pulkitent/equal-experts-shopping-cart-assignment)
+  - [Hotel Automation](https://github.com/pulkitent/sahaj-hotel-automation-assignment)
+
 
 ## Things I am passionate about:
   - High Level Design (Distributed systems & Microservices)
   - Clean code & best engineering practices
+  - Also sometimes I write articles on distributed system: **http://medium.com/@pulkitent**
 
-- 📫 How to reach me out at: [pulkitent@gmail.com](pulkitent@gmail.com)
+## Wanna reach out to me?
+- Email: [pulkitent@gmail.com](pulkitent@gmail.com)
 
-- 📝 I sometimes write articles on distributed system: **http://medium.com/@pulkitent**
+- On Linkedin here <a href="https://linkedin.com/in/pulkit-gupta-44188525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pulkit-gupta-44188525" height="30" width="40" /></a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/pulkitent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pulkitent" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pulkit-gupta-44188525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pulkit-gupta-44188525" height="30" width="40" /></a>
-<a href="https://medium.com/@pulkitent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pulkitent" height="30" width="40" /></a>
+- On Twitter here <a href="https://twitter.com/pulkitent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pulkitent" height="30" width="40" /></a>
+
+- On Medium here <a href="https://medium.com/@pulkitent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pulkitent" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
