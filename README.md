@@ -1,21 +1,16 @@
 <h1 align="center">Hello, I am Pulkit Gupta</h1>
 <h2 align="center">A technology agnostic & polyglot Senior Software Engineer/Developer</h3>
 
-- Checkout my craft on low level design (OOPs) using domain modelling: [Parking_Lot](https://github.com/pulkitent/parking-lot-lld-oop-ood)
+## Checkout my craft on low level design or object oriented design using domain modellling concepts & object oritedn principles: 
+  - [Parking_Lot](https://github.com/pulkitent/parking-lot-lld-oop-ood)
+  - [Game_Of_Life](https://github.com/pulkitent/thoughtworks-game-of-life-assignment)
+  - [Super_Market_Billing](https://github.com/pulkitent/thoughtworks-super-market-billing-assignment)
 
-- Another craft on object oriented design (LLD) using using domain modelling: [Game_Of_Life](https://github.com/pulkitent/thoughtworks-game-of-life-assignment)
-
-- Another craft on low level design (OOD) using using domain modelling: [Super_Market_Billing](https://github.com/pulkitent/thoughtworks-super-market-billing-assignment)
-
-- I like to read/learn about: High Level Design (Distributed systems & Microservices)
+## I like to read/learn about: High Level Design (Distributed systems & Microservices)
 
 - 📫 How to reach me out at: [pulkitent@gmail.com](pulkitent@gmail.com)
 
 - 📝 I sometimes write articles on distributed system: **http://medium.com/@pulkitent**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
