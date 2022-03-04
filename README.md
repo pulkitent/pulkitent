@@ -6,7 +6,9 @@
   - [Game_Of_Life](https://github.com/pulkitent/thoughtworks-game-of-life-assignment)
   - [Super_Market_Billing](https://github.com/pulkitent/thoughtworks-super-market-billing-assignment)
 
-## I like to read/learn about: High Level Design (Distributed systems & Microservices)
+## Things I am passionate about:
+  - High Level Design (Distributed systems & Microservices)
+  - Clean code & best engineering practices
 
 - 📫 How to reach me out at: [pulkitent@gmail.com](pulkitent@gmail.com)
 
