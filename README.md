@@ -7,7 +7,7 @@
 
 - Another craft on low level design (OOD) using using domain modelling: [Super_Market_Billing](https://github.com/pulkitent/thoughtworks-super-market-billing-assignment)
 
-- I like to read/learn about: [High Level Design (Distributed systems & Microservices)](High Level Design (Distributed systems & Microservices))
+- I like to read/learn about: High Level Design (Distributed systems & Microservices)
 
 - 📫 How to reach me [pulkitent@gmail.com](pulkitent@gmail.com)
 
