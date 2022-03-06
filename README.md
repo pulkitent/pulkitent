@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I am Pulkit Gupta</h1>
 <h2 align="center">A technology agnostic & polyglot Senior Software Engineer (SDE-2)</h3>
 
-## Checkout my craft on LLD or OOD using domain modelling & object oriented principles: 
+## Checkout my craft on LLD or OOD using domain modelling & object oriented principles
   - [Parking Lot](https://github.com/pulkitent/parking-lot-lld-oop-ood)
   - [Game Of Life](https://github.com/pulkitent/thoughtworks-game-of-life-assignment)
   - [Super Market Billing](https://github.com/pulkitent/thoughtworks-super-market-billing-assignment)
@@ -9,7 +9,7 @@
   - [Hotel Automation](https://github.com/pulkitent/sahaj-hotel-automation-assignment)
 
 
-## Things I am passionate about:
+## Things I am passionate about
   - High Level Design (Distributed systems & Microservices)
   - Clean code & best engineering practices
   - Also sometimes I write articles on distributed system: **http://medium.com/@pulkitent**
