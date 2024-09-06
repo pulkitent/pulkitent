@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I am Pulkit Gupta</h1>
-<h2 align="center">A technology agnostic & polyglot Senior Software Engineer (SDE-2)</h3>
+<h2 align="center">A technology agnostic & polyglot Senior Software Engineer (SDE-2) at Microsoft</h3>
 
 ## Checkout my craft on LLD or OOD using domain modelling & object oriented principles
   - [Parking Lot](https://github.com/pulkitent/parking-lot-lld-oop-ood)
