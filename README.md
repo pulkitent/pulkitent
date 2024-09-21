@@ -17,14 +17,14 @@
 ## Wanna reach out to me? Click on below links
 - Email: [pulkitent@gmail.com](pulkitent@gmail.com)
 
-- Linkedin: <a href="https://linkedin.com/in/pulkit-gupta-44188525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pulkit-gupta-44188525" height="20" width="40" /></a>
+- Linkedin: <a href="https://linkedin.com/in/pulkit-gupta-44188525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pulkit-gupta-44188525" height="300" width="40" /></a>
 
-- Twitter: <a href="https://twitter.com/pulkitent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pulkitent" height="40" width="40" /></a>
+- Twitter: <a href="https://twitter.com/pulkitent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pulkitent" height="30" width="40" /></a>
 
-- Medium: <a href="https://medium.com/@pulkitent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pulkitent" height="50" width="40" /></a>
+- Medium: <a href="https://medium.com/@pulkitent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pulkitent" height="30" width="40" /></a>
 </p>
 
-- Instagram: <a href="https://www.instagram.com/pulkitent/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@pulkitent" height="60" width="40" /></a>
+- Instagram: <a href="https://www.instagram.com/pulkitent/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@pulkitent" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages, Frameworks & Libraries</h3>
