@@ -17,7 +17,7 @@
 ## Wanna reach out to me? Click on below links
 - Email: [pulkitent@gmail.com](pulkitent@gmail.com)
 
-- Linkedin: <a href="https://linkedin.com/in/pulkit-gupta-44188525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pulkit-gupta-44188525" height="300" width="40" /></a>
+- Linkedin: <a href="https://linkedin.com/in/pulkit-gupta-44188525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pulkit-gupta-44188525" height="30" width="40" /></a>
 
 - Twitter: <a href="https://twitter.com/pulkitent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pulkitent" height="30" width="40" /></a>
 
